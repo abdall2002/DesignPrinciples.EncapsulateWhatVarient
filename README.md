@@ -1,1 +1,2 @@
 "# DesignPrinciples.EncapsulateWhatVarient" 
+"# DesignPrinciples.EncapsulateWhatVarient" 
