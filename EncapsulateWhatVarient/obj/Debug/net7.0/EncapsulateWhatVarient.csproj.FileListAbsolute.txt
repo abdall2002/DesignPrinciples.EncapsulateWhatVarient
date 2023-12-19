@@ -1,0 +1,15 @@
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\bin\Debug\net7.0\EncapsulateWhatVarient.exe
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\bin\Debug\net7.0\EncapsulateWhatVarient.deps.json
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\bin\Debug\net7.0\EncapsulateWhatVarient.runtimeconfig.json
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\bin\Debug\net7.0\EncapsulateWhatVarient.dll
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\bin\Debug\net7.0\EncapsulateWhatVarient.pdb
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.csproj.AssemblyReference.cache
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.AssemblyInfoInputs.cache
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.AssemblyInfo.cs
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.csproj.CoreCompileInputs.cache
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.dll
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\refint\EncapsulateWhatVarient.dll
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.pdb
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\EncapsulateWhatVarient.genruntimeconfig.cache
+C:\Users\COMPUMARTS\source\repos\DesignPrinciples.EncapsulateWhatVarient\EncapsulateWhatVarient\obj\Debug\net7.0\ref\EncapsulateWhatVarient.dll
