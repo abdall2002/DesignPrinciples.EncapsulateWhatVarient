@@ -1,7 +1,29 @@
-﻿class Pizza
+﻿Pizza pizza = Pizza.Order("Cheese");
+Console.WriteLine(pizza);
+Console.WriteLine("__________________________________");
+Console.WriteLine("The Second Order........");
+Pizza pizza2 = Pizza.Order("Chicken");
+Console.WriteLine(pizza2);
+class Pizza
 {
     public virtual string Title => $"{nameof(Pizza)}";
     public virtual decimal Price => 10m;
+    public static Pizza Order(string type)
+    {
+        Pizza pizza;
+        if (type.Equals("Cheese"))
+        {
+            pizza = new Cheese();
+        }
+        else
+        {
+            pizza = new Chicken();
+        }
+        Prepare();
+        Cook();
+        Cut();
+        return pizza;
+    }
     private static void Prepare()
     {
         Console.Write("preparing...");
