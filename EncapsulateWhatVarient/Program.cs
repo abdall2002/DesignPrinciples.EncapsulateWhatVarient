@@ -64,11 +64,11 @@ class Cheese: Pizza
 }
 class Chicken : Pizza
 {
-    public override string Title => $"{base.Title} {nameof(Chicken)}"; // Pizza Cheese
+    public override string Title => $"{base.Title} {nameof(Chicken)}"; // Pizza Chicken
     public override decimal Price => base.Price + 6m;
 }
 class Vegeterian : Pizza
 {
-    public override string Title => $"{base.Title} {nameof(Vegeterian)}"; // Pizza Cheese
+    public override string Title => $"{base.Title} {nameof(Vegeterian)}"; // Pizza Vegeterian
     public override decimal Price => base.Price + 4m;
 }
